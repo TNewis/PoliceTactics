@@ -9,7 +9,7 @@
 There is a small helicopter with a very basic movement script. It can be selected with LMB and will move to any point within the predefined pathfindable volume with RMB. It will move towards a target set by the included A* pathfinding algorithm. 
 - The pathfinding nodes and their adjacency are pre-generated and serialised, as the generation of the full mesh takes a significant amount of time.
 - The pathfinder can generate a path between any accessible pair of nodes
-- Pathfinding can be sped up by using the "Allow Early Exit" flag to allow pathfinding to finish as soon as an path has been returned by the pathfinder.
+- Pathfinding can be sped up by using the "Allow Early Exit" flag to allow pathfinding to finish as soon as any path has been returned by the pathfinder.
 - Scene view has some gizmos set up to show the path, start, end and current target nodes.
 - Selecting the AStarPath object will show some gizmos displaying the pathfinding mesh and nodes, though this will cause some frame rate issues as there are a lot of nodes.
 - To generate a pathfinding volume, make sure a gameobject with the AStar3DPathing script attached exists, them use the included generator in Tools > A* 3D Node Generator.
