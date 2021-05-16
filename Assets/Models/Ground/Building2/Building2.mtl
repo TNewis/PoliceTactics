@@ -1,0 +1,31 @@
+# Exported from Wings 3D 2.2.4
+newmtl Cylinder37_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cylinder37_auv.png
+
+newmtl Cylinder41_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cylinder41_auv.png
+
+newmtl Cylinder42_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cylinder42_auv.png
+

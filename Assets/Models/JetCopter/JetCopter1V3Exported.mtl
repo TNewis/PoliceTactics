@@ -1,0 +1,131 @@
+# Exported from Wings 3D 2.2.4
+newmtl Cube11_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube11_auv.png
+
+newmtl Cube15_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube15_auv.png
+
+newmtl Cube16_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube16_auv.png
+
+newmtl Cube18_copy20_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube18_copy20_auv.png
+
+newmtl Cube25_copy26_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube25_copy26_auv.png
+
+newmtl Cube2_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube2_auv.png
+
+newmtl Cube3_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube3_auv.png
+
+newmtl Cube5_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube5_auv.png
+
+newmtl Cube7_copy9_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube7_copy9_auv.png
+
+newmtl Cube8_copy10_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cube8_copy10_auv.png
+
+newmtl Cylinder14_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cylinder14_auv.png
+
+newmtl Cylinder21_copy22_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cylinder21_copy22_auv.png
+
+newmtl Cylinder4_auv
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.19 0.19 0.19
+Ke 0.0 0.0 0.0
+map_Kd Cylinder4_auv.png
+
